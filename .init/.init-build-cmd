@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tic-tac-toe-game-193122-193131/tic_tac_toe_backend"
+}
